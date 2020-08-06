@@ -1,5 +1,4 @@
 # ControllerProject
-QUT EESS 2020 Semester 2
 
 ## Aim
 The Controller Project aims to allow the creation of a custom USB controller to allow the playing of games on a PC. This project will be based on the Teensy2.0 (ATmega32U4) microcontroller utilizing EGB240 kits initially. Participants can move off these breadboards at later stages of the project.

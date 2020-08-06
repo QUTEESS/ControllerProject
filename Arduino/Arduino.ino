@@ -4,7 +4,7 @@
  * You must select "Keyboard + Mouse+ Joystick" from the "Tools > USB Type" menu!
  * 
  * Refer to typical button and axis inputs on the Github page.
- * LINK HERE
+ * https://github.com/QUTEESS/ControllerProject
  * 
  * For information on the Joystick library, vist the Teensyduino page:
  * https://www.pjrc.com/teensy/td_joystick.html

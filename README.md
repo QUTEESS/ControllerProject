@@ -9,3 +9,4 @@ The Controller Project aims to allow the creation of a custom USB controller to 
 
 ## Useful Resources
 - TeensyDuino Joystick Information at https://www.pjrc.com/teensy/td_joystick.html
+- Teensy 2.0 Pinout at https://www.pjrc.com/teensy/pinout2a.png
